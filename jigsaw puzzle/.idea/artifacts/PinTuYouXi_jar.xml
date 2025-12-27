@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PinTuYouXi:jar">
+    <output-path>$PROJECT_DIR$/../JAR/PINTU</output-path>
+    <root id="archive" name="PinTuYouXi.jar">
+      <element id="module-output" name="PinTuYouXi" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/hutool-all-5.8.42.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
